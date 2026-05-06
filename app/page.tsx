@@ -84,7 +84,7 @@ export default function Home() {
                 color: "white",
               }}
             >
-              Z
+              _
             </div>
             <div>
               <div style={{ fontWeight: 700, fontSize: "0.95rem", lineHeight: 1.2 }}>AE Hiring Hub</div>
