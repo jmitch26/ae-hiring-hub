@@ -230,7 +230,7 @@ export default function Home() {
               </p>
               <div style={{ display: "flex", flexWrap: "wrap", gap: 12 }}>
                 {[
-                  { label: "DRI", value: "Bonnie Dilber, Jade Michel, Navid Zolfaghari" },
+                  { label: "DRI", value: "Bonnie Dilber, Jade Austin, Navid Zolfaghari" },
                   { label: "Support", value: "Darcell E., Em B., Matt O., Kyungho R., Ryan K., Alex K." },
                   { label: "Timeline", value: "EOY 2026" },
                 ].map((item) => (
