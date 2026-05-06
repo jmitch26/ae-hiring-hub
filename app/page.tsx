@@ -1531,7 +1531,7 @@ export default function Home() {
             borderTop: "1px solid #E2E8F0",
           }}
         >
-          AE Hiring Hub · Zapier · Last updated May 2026 · DRI: Bonnie Dilber, Jade Michel, Navid Zolfaghari
+          AE Hiring Hub · Zapier · Last updated May 2026 · DRI: Bonnie Dilber, Jade Austin, Navid Zolfaghari
         </div>
       </main>
 
