@@ -393,7 +393,7 @@ export default function Home() {
               2026 Hires to Date
             </h3>
             <p style={{ fontSize: "0.825rem", color: "#64748B", marginBottom: 16 }}>
-              2 AE hires against a projected 40–50 total AEs for the year
+              2 AE hires against a projected 20 total AEs for the year
             </p>
             <div style={{ display: "flex", flexWrap: "wrap", gap: 10 }}>
               {[
