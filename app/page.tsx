@@ -393,17 +393,13 @@ export default function Home() {
               2026 Hires to Date
             </h3>
             <p style={{ fontSize: "0.825rem", color: "#64748B", marginBottom: 16 }}>
-              12 hires against a projected 40–50 for the year (~25–30% of annual target in Q1)
+              2 AE hires against a projected 40–50 total AEs for the year
             </p>
             <div style={{ display: "flex", flexWrap: "wrap", gap: 10 }}>
               {[
-                { role: "Management", count: 3 },
-                { role: "Sales Assist", count: 3 },
-                { role: "AI Pipeline Engineer", count: 2 },
-                { role: "RevOps / Enablement", count: 2 },
-                { role: "Large Enterprise AE", count: 1 },
+                { role: "Mid Market AE", count: 0 },
                 { role: "Enterprise AE", count: 1 },
-                { role: "Automation Strategist", count: 1 },
+                { role: "Large Enterprise AE", count: 1 },
               ].map((r) => (
                 <div
                   key={r.role}
